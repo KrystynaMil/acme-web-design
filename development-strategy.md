@@ -1,50 +1,126 @@
+
+---
+
 # Development Strategy
 
-> `name-of-project`
+> `Acme-Web-Design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- Wep page about professional web design
+- For the visitors who wants to create their own website
+- Our web services:
+  - Website Design
+  - Website Maintenance
+  - Website Hosting
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://raw.githubusercontent.com/HackYourFutureBelgium/incremental-development/master/development-strategies/wireframe.gif)
 
-## 0. Set-Up
+## Set-Up
 
-__A User can see my initial repository and live demo__
+__Developer: [Repository](https://github.com/KrystynaMil/acme-web-design)__  
+__Visitor: [Website](https://krystynamil.github.io/acme-web-design/)__
 
-### Repo
+### Branch
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+1. Create a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+1. Clone the repository
+1. Change `development-strategy.md` file
+1. Add [Wireframe](./wireframe.gif)
+1. Start  README file
+1. Push the changes
+1. Turn on GitHub Pages
 
-## 1. __
+---
 
-__full user story description__
+## 1. Img Folder
 
-### Repo
+- Add `img` folder using Git
 
-what branch(es) did you work on?
+---
+
+## 2. Home Page
+
+__Acme Web Design Welcome__
+
+### Branches
+
+1. This user story was developed on a brach called `home`
+1. It was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+- Add `index.html` file
+- `Header` element with a title describing the web page
+- `Navigation bar` with `ul` list
+- `Form` with `ìnput` and `button`
+- `Section` with `ìmg` and information about the services
+- Pleasant `footer`
 
 ### CSS
 
-what did you change in the CSS and why?
+- Styling the elements: `Body``Global`, `Header`, `Showcase`, `Newsletter`, `Boxes`
 
-## 2. ...
+---
 
-...
+## 3. About page
 
-...
+__Acme Web Design About__
 
-## Finishing Touches
+### Branches
+
+1. This user story was developed on a brach called `about`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Add `about.html` file
+- `Section`element
+- `Article` element
+- `Aside` element
+- some nice text in the section introducing users to this web page
+
+### CSS
+
+- Styling for the new elements : `Global`, `Main-col`, `Sidebar`
+
+---
+
+## 4. Services page
+
+__Acme Web Design Services__
+
+### Branches
+
+1. This user story was developed on a brach called `services`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Change `section` element
+- Change `article` element and add `ul`list services
+- Change `acide` element with other name
+
+### CSS
+
+- Styling for the new element: `Services`
+
+---
+## 5. Style CSS
+
+### Branches
+
+1. This user story was developed on a brach called `css`
+1. It was merged to `master` when the feature was finished.
+
+### Steps
+
+- Add `style.css` file using git
+
+---
+## 6. Finishing Touches
+
+__As a perfectionist, I want everything perfect :)__
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
