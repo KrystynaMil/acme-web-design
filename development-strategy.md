@@ -33,9 +33,10 @@ __Visitor: [Website](https://krystynamil.github.io/acme-web-design/)__
 
 ---
 
-## 1. Img Folder
+## 1. Folders and empty files
 
-- Add `img` folder using Git
+- Add `img` folder using Git and images files
+- Add `css` folder and `style.css` file 
 
 ---
 
@@ -50,7 +51,7 @@ __Acme Web Design Welcome__
 
 ### HTML
 
-- Add `index.html` file
+- Create `index.html` file
 - `Header` element with a title describing the web page
 - `Navigation bar` with `ul` list
 - `Form` with `ìnput` and `button`
@@ -113,11 +114,13 @@ __Acme Web Design Services__
 1. This user story was developed on a brach called `css`
 1. It was merged to `master` when the feature was finished.
 
-### Steps
+### CSS
 
-- Add `style.css` file using git
+- Change and add styles for `style.css` file 
+- Webpage can be the same for all devises
 
 ---
+
 ## 6. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
