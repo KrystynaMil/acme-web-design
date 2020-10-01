@@ -109,11 +109,6 @@ __Acme Web Design Services__
 ---
 ## 5. Style CSS
 
-### Branches
-
-1. This user story was developed on a brach called `css`
-1. It was merged to `master` when the feature was finished.
-
 ### CSS
 
 - Change and add styles for `style.css` file 
