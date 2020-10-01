@@ -14,7 +14,7 @@
 
 ## Wireframe
 
-![wireframe](https://wireframe.cc/pro/pp/ada58142b378758)
+![wireframe](./img/Homepage.png)
 
 ## Set-Up
 
@@ -108,11 +108,6 @@ __Acme Web Design Services__
 
 ---
 ## 5. Style CSS
-
-### Branches
-
-1. This user story was developed on a brach called `css`
-1. It was merged to `master` when the feature was finished.
 
 ### CSS
 
