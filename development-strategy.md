@@ -14,7 +14,7 @@
 
 ## Wireframe
 
-![wireframe](https://wireframe.cc/pro/pp/ada58142b378758)
+![wireframe](./img/Homepage.png)
 
 ## Set-Up
 
