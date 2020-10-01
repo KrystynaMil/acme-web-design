@@ -14,7 +14,7 @@
 
 ## Wireframe
 
-![wireframe](https://raw.githubusercontent.com/HackYourFutureBelgium/incremental-development/master/development-strategies/wireframe.gif)
+![wireframe](https://wireframe.cc/pro/pp/ada58142b378758)
 
 ## Set-Up
 
