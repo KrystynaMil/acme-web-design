@@ -36,13 +36,13 @@ __Visitor: [Website](https://krystynamil.github.io/acme-web-design/)__
 ## 1. Folders and empty files
 
 - Add `img` folder using Git and images files
-- Add `css` folder and `style.css` file 
+- Add `css` folder and `style.css` file
 
 ---
 
 ## 2. Home Page
 
-__Acme Web Design Welcome__
+[__Acme Web Design Welcome__](https://krystynamil.github.io/acme-web-design/index.html)
 
 ### Branches
 
@@ -60,13 +60,13 @@ __Acme Web Design Welcome__
 
 ### CSS
 
-- Styling the elements: `Body``Global`, `Header`, `Showcase`, `Newsletter`, `Boxes`
+- Styling the elements: `Body` `Global` `Header` `Showcase` `Newsletter` `Boxes`
 
 ---
 
 ## 3. About page
 
-__Acme Web Design About__
+[__Acme Web Design About__](https://krystynamil.github.io/acme-web-design/about.html)
 
 ### Branches
 
@@ -76,20 +76,20 @@ __Acme Web Design About__
 ### HTML
 
 - Add `about.html` file
-- `Section`element
+- `Section` element
 - `Article` element
 - `Aside` element
 - some nice text in the section introducing users to this web page
 
 ### CSS
 
-- Styling for the new elements : `Global`, `Main-col`, `Sidebar`
+- Styling for the new elements : `Global` `Main-col` `Sidebar`
 
 ---
 
 ## 4. Services page
 
-__Acme Web Design Services__
+[__Acme Web Design Services__](https://krystynamil.github.io/acme-web-design/services.html)
 
 ### Branches
 
@@ -100,28 +100,25 @@ __Acme Web Design Services__
 
 - Change `section` element
 - Change `article` element and add `ul`list services
-- Change `acide` element with other name
+- Change `aside` element with other name
 
 ### CSS
 
 - Styling for the new element: `Services`
 
 ---
+
 ## 5. Style CSS
 
 ### CSS
 
-- Change and add styles for `style.css` file 
-- Webpage can be the same for all devises
+- Change and add styles for `style.css` file
+- Add responsive layout, mobile friendly `HTML5` website
 
 ---
 
 ## 6. Finishing Touches
 
-__As a perfectionist, I want everything perfect :)__
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete [README](https://github.com/KrystynaMil/acme-web-design/blob/master/README.md)
+  
 - Validate code to check for any last mistakes
