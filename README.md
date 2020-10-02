@@ -15,7 +15,7 @@ Professional web design company
 ## General info
 
 Affordable and Professional web design company website.
-Which provide the services as website design,  maintenance  and hosting.
+Which provides the services as website design,  maintenance  and hosting.
 
 ## Screenshots
 
