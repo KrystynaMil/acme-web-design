@@ -19,7 +19,7 @@ Which provide the services as website design,  maintenance  and hosting.
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Screenshot.png)
 
 ## Technologies
 
